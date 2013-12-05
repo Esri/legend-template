@@ -4,7 +4,7 @@ legend-template
 
 [View it live] (http://www.arcgis.com/apps/panels/index.html?webmap=d897f81f70384a4cb22b158ab81c7b1e)
 
-
+#Features
 **Legend** is a configurable application template that enables you to display an ArcGIS web map with a legend, description, and basic map tools. The template can be configured using the following options:
  - **Map:** Choose the web map used in the application. 
  - **Color Scheme:** Choose between four application color schemes (Chrome, Gray, Seaside, Pavement).
