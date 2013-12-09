@@ -7,7 +7,7 @@ define([], function() {
         //web map id value instead. The web map id is the id of the web map from ArcGIS Online that you
         //want to display in the application. 
         "appid": "",
-        "webmap": "d897f81f70384a4cb22b158ab81c7b1e", 
+        "webmap": "174966ecfd524979ac9a578d8ca404f2", 
         //Enter the url to the proxy if needed by the applcation. See the 'Using the proxy page' help topic for details
         //http://developers.arcgis.com/en/javascript/jshelp/ags_proxy.html
         "proxyurl": "",
@@ -26,7 +26,7 @@ define([], function() {
         "title": null,
         "subtitle": null,
         //FOOTER: When true and footer_text is supplied a footer section is added to the map. 
-        "footer": false,
+        "footer": true,
         "footer_text": "",
         //DESCRIPTION: Display content in a panel on the right or left side of the map. If no description_content
         //is provided the web map description is used. 
@@ -37,7 +37,7 @@ define([], function() {
         "description_content": "",
         "description_side": "left", //left or right
         //LEGEND: Display the legend in a panel on the right or left side of the map.
-        "legend":  false,
+        "legend":  true,
         "legend_side": "right",//left or right 
         /****************Optional Widgets*******************/
         "home_button": true,
