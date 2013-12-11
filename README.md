@@ -2,7 +2,7 @@ legend-template
 ===============
 ![Screen Shot] (https://dl.dropboxusercontent.com/u/24627279/screenshots/legend_th.jpg)
 
-[View it live] (http://www.arcgis.com/apps/Panels/index.html?webmap=c959f521c02f4f64abf4d39019c5ccd5)
+[View it live] (http://www.arcgis.com/apps/PanelsLegend/index.html?webmap=c959f521c02f4f64abf4d39019c5ccd5)
 
 #Features
 **Legend** is a configurable application template that enables you to display an ArcGIS web map with a legend, description, and basic map tools. The template can be configured using the following options:
