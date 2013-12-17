@@ -23,7 +23,7 @@ legend-template
 1. Download and unzip the .zip file or clone the repo. 
 2. Web-enable the directory
 3. Access the .html page 
-4. See the readme.html page for more details. 
+4. See the [Configuration Options] (https://github.com/Esri/legend-template/wiki/Configuration-Options) section of the wiki for details on configuring the application. 
 
 
 #Requirements
