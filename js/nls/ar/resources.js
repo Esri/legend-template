@@ -1,5 +1,5 @@
 ﻿define(
-({
+   ({
   viewer:{
     main:{
       scaleBarUnits: "metric", //"english (for miles) or "metric" (for km) - don't translate.
@@ -7,7 +7,7 @@
       descriptionLabel: "الوصف"
     },
     errors:{
-      createMap: "تعذر إنشاء خريطة",
+      createMap: "يتعذر إنشاء الخريطة",
       general: "خطأ"
     },
     footer:{

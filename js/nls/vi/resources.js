@@ -3,15 +3,15 @@
   viewer:{
     main:{
       scaleBarUnits: "english", //"english (for miles) or "metric" (for km) - don't translate.
-      legendLabel: "Gösterim",
-      descriptionLabel: "Açıklama"
+      legendLabel: "Chú giải",
+      descriptionLabel: "Mô tả"
     },
     errors:{
-      createMap: "Harita oluşturulamıyor",
-      general: "Hata"
+      createMap: "Không thể tạo bản đồ",
+      general: "Lỗi"
     },
     footer:{
-    	label: "Şuradan harita:"
+    	label: "Bản đồ từ:"
     }
   }
 })

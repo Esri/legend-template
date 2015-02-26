@@ -1,5 +1,5 @@
 ﻿define(
-({
+   ({
   viewer:{
     main:{
       scaleBarUnits: "metric", //"english (for miles) or "metric" (for km) - don't translate.
@@ -11,7 +11,7 @@
       general: "שגיאה"
     },
     footer:{
-    	label: "מפה מתוך:"
+    	label: "מפה מאת:"
     }
   }
 })
